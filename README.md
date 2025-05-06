@@ -1,7 +1,7 @@
 <h1 align="center">🛍️ E-Shop - MERN Stack eCommerce Website</h1>
 
 <p align="center">
-  A full-featured, modern, and colorful eCommerce web application built using the <strong>MERN</strong> stack with <strong>Tailwind CSS</strong> and <strong>Stripe</strong> integration.
+  A full-featured, modern, and colorful eCommerce web application built using the <strong>MERN</strong> stack with <strong>Tailwind CSS</strong>.
 </p>
 
 <p align="center">
