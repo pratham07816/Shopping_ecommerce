@@ -33,10 +33,10 @@
 | Page       | Preview |
 |------------|---------|
 | 🏠 Home     | ![Home](screenshots/Home_page.jpg) |
-| 🧔 Men      | ![Men](screenshots/mens_page.jpg) |
+| 🧔 Men      | ![Men](screenshots/Mens_page.jpg) |
 | 👩 Women    | ![Women](screenshots/womens_page.jpg) |
 | 🧒 Kids     | ![Kids](screenshots/kids_page.jpg) |
-| 🔐 Login    | ![Login](screenshots/login.jpg) |
+| 🔐 Login    | ![Login](screenshots/loginsignup.jpg) |
 
 ---
 
