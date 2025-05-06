@@ -19,7 +19,6 @@
 - 🔐 **Secure Login/Register** with JWT
 - 🛍️ **Product Categories**: Men, Women, Kids
 - 🛒 **Dynamic Cart**: Add, remove, and update items
-- 💳 **Stripe Checkout**: Safe and fast payments
 - 🧾 **Order Management**: View order summary
 - 🧑‍💼 **Admin Dashboard**: Add/edit/delete products
 - 🌈 **Colorful UI**: Built with Tailwind CSS
@@ -33,13 +32,13 @@
 
 | Page       | Preview |
 |------------|---------|
-| 🏠 Home     | ![Home](./screenshots/home.png) |
-| 🧔 Men      | ![Men](./screenshots/men.png) |
-| 👩 Women    | ![Women](./screenshots/women.png) |
-| 🧒 Kids     | ![Kids](./screenshots/kids.png) |
-| 🛒 Cart     | ![Cart](./screenshots/cart.png) |
-| 🔐 Login    | ![Login](./screenshots/login.png) |
-| 🧑‍💼 Admin   | ![Admin](./screenshots/admin.png) |
+| 🏠 Home     | ![Home](screenshots/Home_page.jpg) |
+| 🧔 Men      | ![Men](screenshots/men.png) |
+| 👩 Women    | ![Women](screenshots/women.png) |
+| 🧒 Kids     | ![Kids](screenshots/kids.png) |
+| 🛒 Cart     | ![Cart](screenshots/cart.png) |
+| 🔐 Login    | ![Login](screenshots/login.png) |
+| 🧑‍💼 Admin   | ![Admin](screenshots/admin.png) |
 
 ---
 
