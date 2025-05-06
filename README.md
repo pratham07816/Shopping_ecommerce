@@ -44,11 +44,10 @@
 
 | Layer       | Technology               |
 |-------------|--------------------------|
-| Frontend    | React, Tailwind CSS, Axios |
+| Frontend    | React, Tailwind CSS       |
 | Backend     | Node.js, Express.js       |
 | Database    | MongoDB, Mongoose         |
 | Auth        | JWT (JSON Web Token)      |
-| Payments    | Stripe                    |
 
 ---
 
@@ -56,6 +55,6 @@
 
 ### 🖥️ Clone & Install
 ```bash
-git clone https://github.com/your-username/ecommerce-mern.git
-cd ecommerce-mern
+git clone [https://github.com/pratham07816/Shopping_ecommerce]
+cd Shopping_ecommerce
 
