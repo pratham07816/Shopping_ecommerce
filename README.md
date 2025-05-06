@@ -33,12 +33,10 @@
 | Page       | Preview |
 |------------|---------|
 | 🏠 Home     | ![Home](screenshots/Home_page.jpg) |
-| 🧔 Men      | ![Men](screenshots/men.png) |
-| 👩 Women    | ![Women](screenshots/women.png) |
-| 🧒 Kids     | ![Kids](screenshots/kids.png) |
-| 🛒 Cart     | ![Cart](screenshots/cart.png) |
-| 🔐 Login    | ![Login](screenshots/login.png) |
-| 🧑‍💼 Admin   | ![Admin](screenshots/admin.png) |
+| 🧔 Men      | ![Men](screenshots/mens_page.jpg) |
+| 👩 Women    | ![Women](screenshots/womens_page.jpg) |
+| 🧒 Kids     | ![Kids](screenshots/kids_page.jpg) |
+| 🔐 Login    | ![Login](screenshots/login.jpg) |
 
 ---
 
